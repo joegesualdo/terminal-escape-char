@@ -1,8 +1,8 @@
 var expect = require("chai").expect
 var escapeChar = require("./index")
 
-describe("Sample", function(){
-  it("sample", function(){
+describe("escapeChar", function(){
+  it("is correct", function(){
     expect(escapeChar).to.equal("\u001b")
   })
 })
