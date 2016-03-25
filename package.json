@@ -1,6 +1,6 @@
 {
   "name": "terminal-escape-char",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Get [Escape Character](https://en.wikipedia.org/wiki/Escape_character)",
   "main": "index.js",
   "scripts": {

@@ -1,5 +1,5 @@
 "use strict";
 
-var escapeCharacter = "\u001b"
+const escapeCharacter = "\u001b"
 
 module.exports = escapeCharacter;
